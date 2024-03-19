@@ -399,26 +399,31 @@ ul {
 .client2::after {
     content: url("../icons/Client2.svg");
     display: block;
+    margin-left: 24px;
 }
 
 .client3::after {
     content: url("../icons/Client3.svg");
     display: block;
+    margin-left: 24px;
 }
 
 .client4::after {
     content: url("../icons/Client4.svg");
     display: block;
+    margin-left: 24px;
 }
 
 .client5::after {
     content: url("../icons/Client5.svg");
     display: block;
+    margin-left: 24px;
 }
 
 .client6::after {
     content: url("../icons/Client6.svg");
     display: block;
+    margin-left: 24px;
 }
 
 .footer-container {
