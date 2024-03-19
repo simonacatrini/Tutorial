@@ -569,9 +569,11 @@ ul {
     padding: 94px 0;
 }
 i {{
-        border-width: 2px;
-        border-style: dotted;
-        border-color: grey
-        ;
+    width: 168px;
+        height: 88px;
+        gap: 0px;
+        border-radius: 4px 0px 0px 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
     }
     
