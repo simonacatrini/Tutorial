@@ -568,3 +568,9 @@ ul {
 .container:not(:first-child):not(:last-child) {
     padding: 94px 0;
 }
+i {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
